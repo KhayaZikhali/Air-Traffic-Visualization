@@ -1,0 +1,18 @@
+The goal of this project is to create an app to display flight data in a 3d virtual environment
+
+This app has no intrisic value to add 
+It is merely a goal to direct my learning as i embark deeper into computer programming.
+Also it might look good on my CV in the future as a way to show off my skills in data magement and visualisation and such.
+
+Topics of interest with regards to this project
+
+Data Visualisation in 3d
+3d model
+App design
+Using the VR and AR functionality in phones
+Creating a HUD in an app form
+Launching Mobile Apps
+API
+
+Best of luck to myself.
+
